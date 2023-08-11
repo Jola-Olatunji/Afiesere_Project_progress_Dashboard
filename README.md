@@ -1,5 +1,5 @@
 # Afiesere project Progress Dashboard
-![Dashboard](https://github.com/Jola-Olatunji/Afiesere_Project_progress_Dashboard/blobs/Capture.png)
+[Dashboard](blobs/Capture.png)
 ## A Brief Introduction
 This project was designed to monitor and manage progress in the execution of the Afiesere 
 facility Information Management (FIM) project for **Heritage Energy Operations Services Limited**. 
