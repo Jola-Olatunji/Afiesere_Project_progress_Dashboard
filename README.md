@@ -15,7 +15,7 @@ However, team leads have the responsibility to assign task to owners before the 
 
 #### Start time
 > Timestamp of when a user select "InProgress" from the Status column
-![starttime](https://github.com/Jola-Olatunji/Afiesere_Project_progress_Dashboard/blobs/start_date_snip.png)
+![starttime](https://github.com/Jola-Olatunji/Afiesere_Project_progress_Dashboard/blobs/start_date_snip.PNG)
 
 
 #### End Time
