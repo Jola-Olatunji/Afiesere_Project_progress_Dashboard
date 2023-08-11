@@ -15,35 +15,35 @@ However, team leads have the responsibility to assign task to owners before the 
 
 #### Start time
 > Timestamp of when a user select "InProgress" from the Status column
-![starttime](https://github.com/Jola-Olatunji/Afiesere_Project_progress_Dashboard/blobs/start_date_snip.PNG)
+[starttime](blobs/start_date_snip.PNG)
 
 
 #### End Time
 > Timestamp of when a user select "Complete" from the Status column
-![endtime](https://github.com/Jola-Olatunji/Afiesere_Project_progress_Dashboard/blobs/enddate_snip.png)
+[endtime](blobs/enddate_snip.PNG)
 
 
 #### Time Taken
 > Calculated from the difference between start time and end time putting into consideration, 8 hours workday from 8:00am to 4:00am, weekends and holidays
-![time_taken_snip](https://github.com/Jola-Olatunji/Afiesere_Project_progress_Dashboard/blobs/time_taken_snip.png)
+[time_taken](blobs/time_taken_snip.PNG)
 
 
 #### Estimated End date
 > Calculated from the start date and estimated time to finish information. This will also inform due task and escalate them on the dashboard
-![Estimated_Enddate](https://github.com/Jola-Olatunji/Afiesere_Project_progress_Dashboard/blobs/Estimated_Enddate.png)
+[Estimated_Enddate](blobs/Estimated_Enddate.PNG)
 
 
 
 #### Due tasks
 > Calculated using an array formula that logically test for due tasks on the main reporting template sheet and logs them in a different table on a "Due_tasks" sheet. This will help to easily see due tasks and reach alignment on mitigating further risk to project timeline. 
-![Due_tasks](https://github.com/Jola-Olatunji/Afiesere_Project_progress_Dashboard/blobs/Due_tasks.png)
+[Due_tasks](blobs/Due_tasks.PNG)
 
 
 #### project log and VBA_Code
 > A VBA code taking advantage of the worksheet change event object in the workshet was used to timestamp changes per time on an activity and also to log important information about the tasks InProgress and Completed. and also to show the cummulative addition of man hours to the project per time.
-![VBA_Snip](https://github.com/Jola-Olatunji/Afiesere_Project_progress_Dashboard/blobs/VBA_Snip.png)
+[VBA_Snip](blobs/VBA_Snip.PNG)
 
-![Project_Log](https://github.com/Jola-Olatunji/Afiesere_Project_progress_Dashboard/blobs/Project_Log.png)
+[Project_Log](blobs/Project_Log.PNG)
 
 
 ## Limitation
